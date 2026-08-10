@@ -20,8 +20,8 @@ The objective of this project is to build a robust multiclass classification eng
 
 ### Cross-Validation
 To ensure the model generalizes well across different subsets of data, a **5-Fold Cross-Validation** strategy was applied to the training set:
-* **Mean CV Score:** ~95.8%
-* **Holdout Test Score:** 96.67%
+* **Mean CV Score:** 95%
+* **Holdout Test Score:** 90%
 
 ### Visual Outputs
 Running `main.py` automatically generates and saves performance plots (`model_visualisations.png`):
